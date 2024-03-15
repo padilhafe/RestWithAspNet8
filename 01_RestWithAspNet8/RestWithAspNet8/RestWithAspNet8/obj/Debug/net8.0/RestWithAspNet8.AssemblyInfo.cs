@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestWithAspNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78ce4f4394b8b0d5dbee317207d3ef7a6c5a49e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa765744aaed78e700d85592582642b9f003a8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestWithAspNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestWithAspNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
